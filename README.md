@@ -1,1 +1,2 @@
-# starling-inc.github.io
+# Starling, Inc.
+The most advanced audio player for iOS.
